@@ -13,6 +13,10 @@ public class GitProject {
 		
 		System.out.println("Message from DavidPrades");
 	}
+private void showMessage1() {
+		
+		System.out.println("Message 1 from DavidPrades");
+	}
 	
 	
 }
